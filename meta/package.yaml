@@ -1,0 +1,8 @@
+name: snappy-tmux
+version: 0.1.0
+vendor: tetor <tetor.takashi.etou@gmail.com>
+icon: icon.png
+architectures: [amd64]
+binaries:
+  - name: tmux
+    exec: bin/tmux
